@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrecrypt",
+        "uuid": 1055690,
+        "checksum": "gjvzag"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
